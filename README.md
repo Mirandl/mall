@@ -1,4 +1,4 @@
-# mall
+# mall-Vue3
 
 ## Project setup
 ```
